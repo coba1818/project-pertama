@@ -10,7 +10,7 @@ func main() {
 	var jumlah int
 	{
 
-		fmt.Print("Masukkan Angka Pertama : ")
+		fmt.Print("Masukkan Angka 123 Pertama : ")
 		fmt.Scanln(&angka1)
 		fmt.Print("Masukkan Angka Pertama : ")
 		fmt.Scanln(&angka2)
